@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<RCTSafeAreaView
+  style={
+    {
+      "backgroundColor": "#F3F3F3",
+    }
+  }
+>
+  <Text>
+    HOLA c
+  </Text>
+</RCTSafeAreaView>
+`;

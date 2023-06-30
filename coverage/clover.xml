@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1686642988400" clover="3.2.0">
+  <project timestamp="1686642988400" name="All files">
+    <metrics statements="19" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="14" coveredmethods="9" elements="33" coveredelements="26" complexity="0" loc="19" ncloc="19" packages="1" files="2" classes="2"/>
+    <file name="App.tsx" path="/home/deq/Work/React Native/AwesomeProject/App.tsx">
+      <metrics statements="13" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="5"/>
+      <line num="30" count="1" type="stmt"/>
+      <line num="31" count="2" type="stmt"/>
+      <line num="39" count="0" type="stmt"/>
+      <line num="45" count="0" type="stmt"/>
+      <line num="57" count="1" type="stmt"/>
+      <line num="58" count="1" type="stmt"/>
+      <line num="73" count="2" type="stmt"/>
+      <line num="78" count="2" type="stmt"/>
+      <line num="89" count="2" type="stmt"/>
+      <line num="93" count="2" type="stmt"/>
+      <line num="99" count="2" type="stmt"/>
+      <line num="109" count="1" type="stmt"/>
+      <line num="117" count="1" type="stmt"/>
+    </file>
+    <file name="Controller.tsx" path="/home/deq/Work/React Native/AwesomeProject/Controller.tsx">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="15" count="2" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
